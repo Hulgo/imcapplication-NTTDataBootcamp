@@ -15,6 +15,6 @@
 <a href = "mailto:hulgoleo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/hulgoleonardo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <br/>
-<a href="https://www.hltech.dev.br" target="_blank"><img src="https://hltech.dev.br/images/logo.png" style="display: block; margin-left: auto; margin-right: auto; width: 50px; height: 50px" target="_blank" alt="HL Tech"></a>
+<a href="https://www.hltech.dev.br" target="_blank"><img src="https://hltech.dev.br/images/logo.png" style="margin-left: auto; margin-right: auto; width: 100px; height: 100px" target="_blank" alt="HL Tech"></a>
 
 </div>
