@@ -6,6 +6,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40"/>
 
 
+### Sobre este projeto:
+
+#### Elaboração de um APP Android Nativo utilizando Kotlin para cálculo de IMC, conforme proposto no Bootcamp da NTT DATA.
+
 ### Contatos:
 
 <div>
